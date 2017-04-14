@@ -1,0 +1,9 @@
+
+/build/
+/.idea/
+/gradle.properties
+/QRCode.iml
+/Zxing-demo.iml
+/local.properties
+/.gradle/
+/app/libs/
